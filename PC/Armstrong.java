@@ -1,3 +1,4 @@
+
 class Armstrong
 {
  public static void main(String argu[])
