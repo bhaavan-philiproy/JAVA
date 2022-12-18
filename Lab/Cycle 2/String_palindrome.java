@@ -18,3 +18,4 @@ class String_palindrome
    System.out.println("The string is not palindrome");
  }
 }
+
