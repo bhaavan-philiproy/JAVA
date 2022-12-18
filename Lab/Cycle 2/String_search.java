@@ -24,3 +24,4 @@ class String_search
    System.out.println("The character is not present");
  }
 }
+
