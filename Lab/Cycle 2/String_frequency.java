@@ -21,3 +21,4 @@ class String_frequency
    System.out.println("The character is not present");
  }
 }
+
